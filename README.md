@@ -25,7 +25,7 @@ The main goals are:
 - data/Superstore_Sales_Dataset.csv → Original dataset used for analysis.
 - dashboard/Global-Superstore.pbix → Complete Power BI dashboard file.
 - dashboard/Screenshots/ → Screenshots of all dashboard pages and visuals.
-- Future files will include final presentation.
+- presentation/DEMI Final Presentation.pptx.
 
 🧠 Project Workflow
 Our workflow follows standard BI project stages: -->
